@@ -1,2 +1,2 @@
-# -Vozvakhov_D
+# Vozvakhov_D
 Student: Vozvakhov D
